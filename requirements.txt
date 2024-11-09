@@ -1,0 +1,7 @@
+python-dotenv~=1.0.1
+loguru~=0.7.2
+aiogram~=3.14.0
+pydantic~=2.9.2
+SQLAlchemy~=2.0.36
+aiosqlite~=0.20.0
+openpyxl~=3.1.5
